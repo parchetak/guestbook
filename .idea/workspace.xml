@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e6fc7cf-0f1a-4dfa-9560-39ec75b4e0c5" name="Default Changelist" comment="" />
+    <list default="true" id="6e6fc7cf-0f1a-4dfa-9560-39ec75b4e0c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/guestbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guestbook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +24,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="PhpDebugGeneral" break_at_first_line="true" ignore_connections_through_unregistered_servers="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
@@ -49,6 +58,18 @@
       <path value="$PROJECT_DIR$/vendor/symfony/finder" />
       <path value="$PROJECT_DIR$/vendor/symfony/config" />
       <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kTS34sVoWn1zhXQfutqrlocPmE" />
@@ -57,12 +78,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="Symfony2.SettingsForm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +97,10 @@
       <updated>1605722886084</updated>
       <workItem from="1605722887437" duration="394000" />
       <workItem from="1605776916455" duration="1057000" />
-      <workItem from="1605778911101" duration="1560000" />
+      <workItem from="1605778911101" duration="2169000" />
+      <workItem from="1605862337345" duration="1524000" />
+      <workItem from="1605865149218" duration="2167000" />
+      <workItem from="1605867338509" duration="3987000" />
     </task>
     <servers />
   </component>
@@ -83,10 +108,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="302" y="57" width="824" height="691" key="#CLI_Interpreters" timestamp="1605866436130">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="302" y="57" width="824" height="691" key="#CLI_Interpreters/72.27.1294.741@72.27.1294.741" timestamp="1605866436130" />
     <state x="492" y="276" width="444" height="249" key="#Composer" timestamp="1605722904938">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="492" y="276" width="444" height="249" key="#Composer/72.27.1294.741@72.27.1294.741" timestamp="1605722904938" />
+    <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605866434275">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="497" y="160" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605866434275" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1605723280949">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
@@ -103,9 +136,13 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1605723280949" />
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605778969158">
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1605867451564">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1605778969158" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1605867451564" />
+    <state x="523" y="89" width="381" height="624" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605872557739">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="523" y="89" width="381" height="624" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1294.741@72.27.1294.741" timestamp="1605872557739" />
   </component>
 </project>
